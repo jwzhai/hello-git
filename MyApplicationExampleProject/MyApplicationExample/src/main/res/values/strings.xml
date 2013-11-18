@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MyApplicationExample</string>
-    <string name="hello_world">Hello world!I'm git test.</string>
+    <string name="hello_world">Hello world!\nI\'m git test.</string>
     <string name="action_settings">Settings</string>
 
 </resources>
